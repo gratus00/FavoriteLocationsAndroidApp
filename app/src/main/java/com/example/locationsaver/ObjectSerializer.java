@@ -1,4 +1,4 @@
-package com.example.memorableplaces;
+package com.example.locationsaver;
 
 import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;

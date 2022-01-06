@@ -1,4 +1,4 @@
-package com.example.memorableplaces;
+package com.example.locationsaver;
 
 import android.content.Context;
 import android.content.DialogInterface;

@@ -1,4 +1,4 @@
-package com.example.memorableplaces;
+package com.example.locationsaver;
 
 import androidx.annotation.NonNull;
 import androidx.core.app.ActivityCompat;
@@ -16,7 +16,6 @@ import android.location.Location;
 import android.location.LocationListener;
 import android.location.LocationManager;
 import android.os.Bundle;
-import android.util.Log;
 import android.widget.Toast;
 
 import com.google.android.gms.maps.CameraUpdateFactory;
@@ -25,7 +24,7 @@ import com.google.android.gms.maps.OnMapReadyCallback;
 import com.google.android.gms.maps.SupportMapFragment;
 import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.maps.model.MarkerOptions;
-import com.example.memorableplaces.databinding.ActivityMapsBinding;
+import com.example.locationsaver.databinding.ActivityMapsBinding;
 
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
